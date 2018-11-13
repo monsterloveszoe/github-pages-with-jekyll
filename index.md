@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Just following the tutorial and making a few changes. As I understand it each project, ahem I mean repository can have a webpage, and markdown would be useful to know for formatting.
